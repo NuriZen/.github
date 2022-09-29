@@ -1,2 +1,2 @@
-## https://nutrizen.github.io
+## https://nurizen.github.io
 
