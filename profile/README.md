@@ -1,4 +1,4 @@
-## https://nurizen.github.io
+## [Pagina web](https://nurizen.github.io)
 
-## Entrar en los trabajos
-https://github.com/orgs/NuriZen/projects/2/views/2
+## [Entrar en los trabajos](https://github.com/orgs/NuriZen/projects/2/views/2)
+
